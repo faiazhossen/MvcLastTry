@@ -19,6 +19,6 @@ public class MainModelImpl implements MainModel {
 
     @Override
     public void getToast() {
-        presenter.setToast("Musta fucking Mim");
+        presenter.setToast("Faiaz fucking Mim");
     }
 }
